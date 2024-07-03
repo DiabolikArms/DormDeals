@@ -1,0 +1,9 @@
+  
+  .card .btn {
+    border: none;
+  }
+  
+  .card .btn:hover {
+    background-color: rgba(255, 0, 0, 0.638);
+    border: none;
+  }

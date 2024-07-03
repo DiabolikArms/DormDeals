@@ -1,0 +1,126 @@
+.links img {
+  height: 75px; /* Adjust the height as needed */
+}
+
+.links {
+  text-decoration: none;
+  color: inherit;
+}
+
+.custom-select {
+  width: 80%;
+  max-width: 150px; /* Adjust as needed */
+  padding: 8px;
+  margin-right: 20px; /* Adjusted to give space between select and search */
+  font-size: 16px;
+  border: 2px solid #002f34;
+  border-radius: 0; /* Removed border-radius for rectangular box */
+  background-color: #f8f9fa;
+  color: #002f34;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.custom-select:focus {
+  outline: none;
+  border-color: #002f1e;
+  box-shadow:  0 0 10px rgba(0, 139, 98, 0.5);
+}
+
+.custom-select option {
+  padding: 10px;
+  color: #01561d;
+  font-size: 17px; /* Adjust font size */
+}
+
+
+.header-container {
+  padding: 10px 20px;
+  background-color: rgba(12, 136, 181, 0.253);
+  border-bottom: 2px solid #ffffff;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.centered-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search-container {
+  display: flex;
+  align-items: center;
+}
+
+.search {
+  outline: none;
+  padding-left: 10px;
+  width: 300px;
+  height: 44px;
+  border: 2px solid #002f34;
+  border-right: none;
+  border-radius: 4px 0 0 4px;
+  transition: all 0.3s ease;
+}
+
+.search:focus {
+  border-color: #002f1e;
+  box-shadow: 0 0 10px rgba(0, 139, 98, 0.5);
+}
+
+.search-btn {
+  height: 44px;
+  background-color: #002f34;
+  color: #fff;
+  border: 2px solid #002f34;
+  border-radius: 0 4px 4px 0;
+  outline: none;
+  padding: 0 15px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+}
+
+.search-btn:hover {
+  background-color: #00863c;
+}
+
+.search-btn:focus {
+  border-color: #000101;
+}
+
+/* .logout-btn {
+  height: 35px;
+  background-color: #002f34;
+  color: #fff;
+  border-radius: 4px;
+  outline: none;
+  border: none;
+  padding: 1px 16px;
+  margin-right: 10px;
+} */
+
+.category {
+  color: rgba(0, 47, 52, 1);
+  padding: 7px;
+  cursor: pointer;
+  font-weight: bolder;
+}
+
+.dropdown-item {
+  padding: 10px;
+  display: block;
+  color: white;
+  text-decoration: none;
+}
+
+.dropdown-item:hover {
+  background-color: rgb(255, 255, 255); /* Dark green with transparency */
+  color: rgb(0, 0, 0);
+}
+

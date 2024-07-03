@@ -1,0 +1,70 @@
+.product-detail-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.product-detail-box {
+    background-color: rgba(255, 255, 255, 0.6);
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    width: auto;
+    box-sizing: border-box;
+}
+
+.product-image {
+    height: auto;
+    max-width: 400px;
+    margin-right: 5px;
+    max-height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.price-text {
+    font-size: 1.5em;
+    margin: 0.5em 0;
+}
+
+.contact-button {
+    background-color: rgba(4, 136, 66, 0.61);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    background-color: rgba(4, 136, 66);
+}
+
+.contact-button:hover {
+    background-color: rgba(4, 136, 66, 0.61);
+}
+
+.contact-details h4 {
+    font-size: 1.2em;
+    margin: 5px 0;
+    line-height: 1.2;
+}
+
+.contact-details h5 {
+    font-size: 1.1em;
+    margin: 5px 0;
+    line-height: 1.2;
+}
+
+.contact-details h6 {
+    font-size: 1em;
+    margin: 5px 0;
+    line-height: 1.2;
+}
+
+.product-description {
+    word-wrap: break-word;
+    max-width: 400px; 
+    margin-bottom: 10px;
+}

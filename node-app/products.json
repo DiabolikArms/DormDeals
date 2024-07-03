@@ -1,0 +1,1056 @@
+[{
+  "_id": {
+    "$oid": "663e555fc9890cfd116777d9"
+  },
+  "pname": "RadhaKrishna",
+  "pdesc": "RadhaKrishna Fine Art",
+  "price": "2000",
+  "category": "Fine Arts",
+  "pimage": "uploads/pimage-1715361119684-704382835",
+  "pimage2": "uploads/pimage2-1715361119698-719556381",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1200271,
+      81.7677538
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e559fc9890cfd116777dc"
+  },
+  "pname": "Playing",
+  "pdesc": "Children Playing Art",
+  "price": "1500",
+  "category": "Warli Painting",
+  "pimage": "uploads/pimage-1715361183146-907178508",
+  "pimage2": "uploads/pimage2-1715361183510-170247970",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1283689,
+      81.7675019
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e55e2c9890cfd116777df"
+  },
+  "pname": "Face",
+  "pdesc": "Girl Face Fine Art",
+  "price": "2000",
+  "category": "Fine Arts",
+  "pimage": "uploads/pimage-1715361250292-493609159",
+  "pimage2": "uploads/pimage2-1715361250319-571542594",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1284189,
+      81.7675211
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e5620c9890cfd116777e2"
+  },
+  "pname": "Women",
+  "pdesc": "Women Combing Hairs",
+  "price": "800",
+  "category": "Kalighat Painting",
+  "pimage": "uploads/pimage-1715361312446-231314283",
+  "pimage2": "uploads/pimage2-1715361312489-213951185",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1284189,
+      81.7675211
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e565bc9890cfd116777e5"
+  },
+  "pname": "Festival",
+  "pdesc": "Festival Celebration Art",
+  "price": "1000",
+  "category": "Kalighat Painting",
+  "pimage": "uploads/pimage-1715361371404-999867433",
+  "pimage2": "uploads/pimage2-1715361371404-640821269",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1284189,
+      81.7675211
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e56a0c9890cfd116777e8"
+  },
+  "pname": "Tree",
+  "pdesc": "Tree Kalamkari Art",
+  "price": "1500",
+  "category": "",
+  "pimage": "uploads/pimage-1715361440301-145622789",
+  "pimage2": "uploads/pimage2-1715361440452-408989419",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1283689,
+      81.7675019
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e56e2c9890cfd116777eb"
+  },
+  "pname": "Village",
+  "pdesc": "Village warli art",
+  "price": "1500",
+  "category": "Warli Painting",
+  "pimage": "uploads/pimage-1715361505634-649487486",
+  "pimage2": "uploads/pimage2-1715361506641-917893784",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1284189,
+      81.7675211
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e5773c9890cfd116777ef"
+  },
+  "pname": "Women",
+  "pdesc": "Women Kalighat Art",
+  "price": "1000",
+  "category": "Kalighat Painting",
+  "pimage": "uploads/pimage-1715361651768-68813129",
+  "pimage2": "uploads/pimage2-1715361651897-90157261",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1283745,
+      81.7675319
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e57b2c9890cfd116777f2"
+  },
+  "pname": "Peacock",
+  "pdesc": "Peacock Kalamkari Art",
+  "price": "2000",
+  "category": "Kalamkari",
+  "pimage": "uploads/pimage-1715361714095-234332232",
+  "pimage2": "uploads/pimage2-1715361714256-505956969",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1283745,
+      81.7675319
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e582cc9890cfd116777f5"
+  },
+  "pname": "Eye",
+  "pdesc": "Eye Fine Art",
+  "price": "1500",
+  "category": "Fine Arts",
+  "pimage": "uploads/pimage-1715361836055-151043250",
+  "pimage2": "uploads/pimage2-1715361836072-360539553",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1200271,
+      81.7677538
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e5871c9890cfd116777fc"
+  },
+  "pname": "RadhaKrishna",
+  "pdesc": "RadhaKrishna Kalighat painting",
+  "price": "800",
+  "category": "Kalighat Painting",
+  "pimage": "uploads/pimage-1715361905757-326967497",
+  "pimage2": "uploads/pimage2-1715361905767-13474113",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1200271,
+      81.7677538
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e58abc9890cfd116777ff"
+  },
+  "pname": "Birds",
+  "pdesc": "Birds Kalamkari Art",
+  "price": "2000",
+  "category": "Kalamkari",
+  "pimage": "uploads/pimage-1715361963031-182443201",
+  "pimage2": "uploads/pimage2-1715361963411-342986283",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1283745,
+      81.7675319
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e5965c9890cfd11677802"
+  },
+  "pname": "Taxi",
+  "pdesc": "Taxi Kalighat Art",
+  "price": "800",
+  "category": "Kalighat Painting",
+  "pimage": "uploads/pimage-1715362149038-145796342",
+  "pimage2": "uploads/pimage2-1715362149038-362178109",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1284152,
+      81.7675358
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e59dcc9890cfd11677805"
+  },
+  "pname": "Peacock",
+  "pdesc": "Peacock KalamKari Art",
+  "price": "3000",
+  "category": "Kalamkari",
+  "pimage": "uploads/pimage-1715362267859-656494119",
+  "pimage2": "uploads/pimage2-1715362268286-515184696",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1284152,
+      81.7675358
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e5a58c9890cfd1167780d"
+  },
+  "pname": "Tree",
+  "pdesc": "Tree Fine Art",
+  "price": "1500",
+  "category": "Fine Arts",
+  "pimage": "uploads/pimage-1715362392639-210327520",
+  "pimage2": "uploads/pimage2-1715362392640-585969225",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1200271,
+      81.7677538
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e5a90c9890cfd11677810"
+  },
+  "pname": "Lady",
+  "pdesc": "Lady Kalamkari Art",
+  "price": "1500",
+  "category": "Kalamkari",
+  "pimage": "uploads/pimage-1715362448567-219658447",
+  "pimage2": "uploads/pimage2-1715362448745-141422574",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1200271,
+      81.7677538
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e5accc9890cfd11677813"
+  },
+  "pname": "Dog",
+  "pdesc": "Dog Fine Art",
+  "price": "1000",
+  "category": "Fine Arts",
+  "pimage": "uploads/pimage-1715362507987-16990911",
+  "pimage2": "uploads/pimage2-1715362508498-208987008",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1200271,
+      81.7677538
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e5b55c9890cfd11677816"
+  },
+  "pname": "Beautiful Girl",
+  "pdesc": "Beautiful Girl Fine Art",
+  "price": "3000",
+  "category": "Fine Arts",
+  "pimage": "uploads/pimage-1715362645360-271102006",
+  "pimage2": "uploads/pimage2-1715362645462-665850622",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1284152,
+      81.7675358
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e5b90c9890cfd11677819"
+  },
+  "pname": "Peacock on Tree",
+  "pdesc": "Peacock On Tree",
+  "price": "2000",
+  "category": "Kalamkari",
+  "pimage": "uploads/pimage-1715362704723-42022335",
+  "pimage2": "uploads/pimage2-1715362704878-944140114",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1284152,
+      81.7675358
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e5bd5c9890cfd1167781c"
+  },
+  "pname": "Architecture",
+  "pdesc": "Architecture Fine Art",
+  "price": "900",
+  "category": "Fine Arts",
+  "pimage": "uploads/pimage-1715362772958-427601646",
+  "pimage2": "uploads/pimage2-1715362773252-993758367",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1200271,
+      81.7677538
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e5c55c9890cfd11677826"
+  },
+  "pname": "RadhaKrishna",
+  "pdesc": "RadhaKrishna Kalighat Painting",
+  "price": "1500",
+  "category": "Kalighat Painting",
+  "pimage": "uploads/pimage-1715362900626-173923939",
+  "pimage2": "uploads/pimage2-1715362901023-908718971",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1284152,
+      81.7675358
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e5c9ec9890cfd11677829"
+  },
+  "pname": "Mirror Reflection",
+  "pdesc": "Girl In Mirror Painting",
+  "price": "900",
+  "category": "Kalighat Painting",
+  "pimage": "uploads/pimage-1715362973918-211204165",
+  "pimage2": "uploads/pimage2-1715362973949-731678414",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1284152,
+      81.7675358
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e5cf9c9890cfd1167782c"
+  },
+  "pname": "Fashion",
+  "pdesc": "Fashionable Girl",
+  "price": "200",
+  "category": "Fine Arts",
+  "pimage": "uploads/pimage-1715363064981-613498099",
+  "pimage2": "uploads/pimage2-1715363065170-905095072",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1200271,
+      81.7677538
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e5d86c9890cfd1167782f"
+  },
+  "pname": "Women",
+  "pdesc": "Women Fine Art",
+  "price": "2000",
+  "category": "Fine Arts",
+  "pimage": "uploads/pimage-1715363206184-173850790",
+  "pimage2": "uploads/pimage2-1715363206284-256471341",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1200271,
+      81.7677538
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e5d86c9890cfd11677831"
+  },
+  "pname": "Women",
+  "pdesc": "Women Fine Art",
+  "price": "2000",
+  "category": "Fine Arts",
+  "pimage": "uploads/pimage-1715363206188-984604667",
+  "pimage2": "uploads/pimage2-1715363206283-590540248",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1200271,
+      81.7677538
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e5d86c9890cfd11677837"
+  },
+  "pname": "Women",
+  "pdesc": "Women Fine Art",
+  "price": "2000",
+  "category": "Fine Arts",
+  "pimage": "uploads/pimage-1715363206187-269635526",
+  "pimage2": "uploads/pimage2-1715363206285-833802227",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1200271,
+      81.7677538
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e5d86c9890cfd11677839"
+  },
+  "pname": "Women",
+  "pdesc": "Women Fine Art",
+  "price": "2000",
+  "category": "Fine Arts",
+  "pimage": "uploads/pimage-1715363206171-879850341",
+  "pimage2": "uploads/pimage2-1715363206190-870480173",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1200271,
+      81.7677538
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e5d86c9890cfd1167783b"
+  },
+  "pname": "Women",
+  "pdesc": "Women Fine Art",
+  "price": "2000",
+  "category": "Fine Arts",
+  "pimage": "uploads/pimage-1715363206190-735367328",
+  "pimage2": "uploads/pimage2-1715363206284-363041777",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1200271,
+      81.7677538
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e5d86c9890cfd1167783d"
+  },
+  "pname": "Women",
+  "pdesc": "Women Fine Art",
+  "price": "2000",
+  "category": "Fine Arts",
+  "pimage": "uploads/pimage-1715363206184-821558813",
+  "pimage2": "uploads/pimage2-1715363206485-877350409",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1200271,
+      81.7677538
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e5d87c9890cfd1167783f"
+  },
+  "pname": "Women",
+  "pdesc": "Women Fine Art",
+  "price": "2000",
+  "category": "Fine Arts",
+  "pimage": "uploads/pimage-1715363206803-825313199",
+  "pimage2": "uploads/pimage2-1715363207030-728267849",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1200271,
+      81.7677538
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e5d86c9890cfd11677835"
+  },
+  "pname": "Women",
+  "pdesc": "Women Fine Art",
+  "price": "2000",
+  "category": "Fine Arts",
+  "pimage": "uploads/pimage-1715363206189-430282097",
+  "pimage2": "uploads/pimage2-1715363206282-922799654",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1200271,
+      81.7677538
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e5d86c9890cfd11677833"
+  },
+  "pname": "Women",
+  "pdesc": "Women Fine Art",
+  "price": "2000",
+  "category": "Fine Arts",
+  "pimage": "uploads/pimage-1715363206189-571554899",
+  "pimage2": "uploads/pimage2-1715363206285-613013924",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1200271,
+      81.7677538
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e5e73c9890cfd1167784c"
+  },
+  "pname": "Wall Painter",
+  "pdesc": "Girl Painting Wall",
+  "price": "3000",
+  "category": "Fine Arts",
+  "pimage": "uploads/pimage-1715363442952-584480190",
+  "pimage2": "uploads/pimage2-1715363443580-316242993",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1284152,
+      81.7675358
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e5e74c9890cfd1167784e"
+  },
+  "pname": "Wall Painter",
+  "pdesc": "Girl Painting Wall",
+  "price": "3000",
+  "category": "Fine Arts",
+  "pimage": "uploads/pimage-1715363444310-691705758",
+  "pimage2": "uploads/pimage2-1715363444442-999745145",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1284152,
+      81.7675358
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e5e8dc9890cfd11677852"
+  },
+  "pname": "Madhubani Art",
+  "pdesc": "Ramayana Art",
+  "price": "1200",
+  "category": "Madhubani Painting",
+  "pimage": "uploads/pimage-1715363469788-972376312",
+  "pimage2": "uploads/pimage2-1715363469802-936811198",
+  "addedBy": {
+    "$oid": "663de13cf859b1fe9157d67d"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.128446926114872,
+      81.76627448946698
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e5ec7c9890cfd11677857"
+  },
+  "pname": "Madhubani Art ",
+  "pdesc": "Krishna Art",
+  "price": "1500",
+  "category": "Madhubani Painting",
+  "pimage": "uploads/pimage-1715363526729-986533513",
+  "pimage2": "uploads/pimage2-1715363527312-732770760",
+  "addedBy": {
+    "$oid": "663de13cf859b1fe9157d67d"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.12845246895117,
+      81.7662331132242
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e5ed9c9890cfd1167785a"
+  },
+  "pname": "Cycling",
+  "pdesc": "Cyclinig Fine Art",
+  "price": "2000",
+  "category": "Fine Arts",
+  "pimage": "uploads/pimage-1715363545635-744943735",
+  "pimage2": "uploads/pimage2-1715363545639-591789075",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1284152,
+      81.7675358
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e5f0cc9890cfd11677863"
+  },
+  "pname": "Madhubani Art",
+  "pdesc": "Village Woman",
+  "price": "1600",
+  "category": "Madhubani Painting",
+  "pimage": "uploads/pimage-1715363595205-986958245",
+  "pimage2": "uploads/pimage2-1715363596340-453872457",
+  "addedBy": {
+    "$oid": "663de13cf859b1fe9157d67d"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.12846924909537,
+      81.76617987803697
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e5f65c9890cfd1167786a"
+  },
+  "pname": "Handpainted ",
+  "pdesc": "warli painting",
+  "price": "950",
+  "category": "Warli Painting",
+  "pimage": "uploads/pimage-1715363684398-355451682",
+  "pimage2": "uploads/pimage2-1715363684940-578758327",
+  "addedBy": {
+    "$oid": "660a622fc61c5419bf18fa78"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1200271,
+      81.7677538
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e5f84c9890cfd1167786d"
+  },
+  "pname": "Madhubani Art",
+  "pdesc": "Mithila Painting",
+  "price": "1800",
+  "category": "Madhubani Painting",
+  "pimage": "uploads/pimage-1715363715863-97633938",
+  "pimage2": "uploads/pimage2-1715363716137-104869316",
+  "addedBy": {
+    "$oid": "663de13cf859b1fe9157d67d"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.128494500000002,
+      81.7659065
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e603bc9890cfd11677873"
+  },
+  "pname": "circlewarli",
+  "pdesc": "warli painting",
+  "price": "560",
+  "category": "Warli Painting",
+  "pimage": "uploads/pimage-1715363899348-825504043",
+  "pimage2": "uploads/pimage2-1715363899752-67803245",
+  "addedBy": {
+    "$oid": "660a622fc61c5419bf18fa78"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1200271,
+      81.7677538
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e603ec9890cfd11677877"
+  },
+  "pname": "Madhubani Art",
+  "pdesc": "Woman Working Art",
+  "price": "2100",
+  "category": "Madhubani Painting",
+  "pimage": "uploads/pimage-1715363902309-448749744",
+  "pimage2": "uploads/pimage2-1715363902537-209306876",
+  "addedBy": {
+    "$oid": "663de13cf859b1fe9157d67d"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.128713,
+      81.765572
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e608ac9890cfd1167787c"
+  },
+  "pname": "Peacock",
+  "pdesc": "Peacock kalamkari",
+  "price": "2000",
+  "category": "Kalamkari",
+  "pimage": "uploads/pimage-1715363977891-931376536",
+  "pimage2": "uploads/pimage2-1715363978291-599823506",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1200271,
+      81.7677538
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e60aec9890cfd11677887"
+  },
+  "pname": " traditional",
+  "pdesc": "warli painting",
+  "price": "650",
+  "category": "Warli Painting",
+  "pimage": "uploads/pimage-1715364014572-165195866",
+  "pimage2": "uploads/pimage2-1715364014695-830674696",
+  "addedBy": {
+    "$oid": "660a622fc61c5419bf18fa78"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1200271,
+      81.7677538
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e61f6c9890cfd11677891"
+  },
+  "pname": "Village",
+  "pdesc": "Warli painting",
+  "price": "960",
+  "category": "Warli Painting",
+  "pimage": "uploads/pimage-1715364341875-989887478",
+  "pimage2": "uploads/pimage2-1715364341966-262062957",
+  "addedBy": {
+    "$oid": "660a622fc61c5419bf18fa78"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1200271,
+      81.7677538
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e6316c9890cfd11677896"
+  },
+  "pname": "Tamatina",
+  "pdesc": "warli painting",
+  "price": "2999",
+  "category": "Warli Painting",
+  "pimage": "uploads/pimage-1715364629945-881551310",
+  "pimage2": "uploads/pimage2-1715364630027-601778295",
+  "addedBy": {
+    "$oid": "660a622fc61c5419bf18fa78"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1200271,
+      81.7677538
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663e6393c9890cfd1167789b"
+  },
+  "pname": "Tamatina",
+  "pdesc": "warli painting",
+  "price": "980",
+  "category": "Warli Painting",
+  "pimage": "uploads/pimage-1715364755590-514040347",
+  "pimage2": "uploads/pimage2-1715364755748-468503288",
+  "addedBy": {
+    "$oid": "660a622fc61c5419bf18fa78"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1200271,
+      81.7677538
+    ]
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663f0ab83c8abde501a7ea3a"
+  },
+  "pname": "Women",
+  "pdesc": "kalighat",
+  "price": "1000",
+  "category": "Kalighat Painting",
+  "pimage": "uploads/pimage-1715407543729-840959812",
+  "pimage2": "uploads/pimage2-1715407544354-890634725",
+  "addedBy": {
+    "$oid": "663e5503c9890cfd116777d5"
+  },
+  "pLoc": {
+    "type": "Point",
+    "coordinates": [
+      21.1283807,
+      81.7674892
+    ]
+  },
+  "__v": 0
+}]
