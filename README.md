@@ -1,6 +1,9 @@
+![Logo-bgremoved](https://github.com/DiabolikArms/DormDeals/assets/135941122/731bb3e6-511a-4249-a149-8fc836c3ed7c)
+
 DEPLOYED LINK - https://jazzy-palmier-9a5234.netlify.app/
 
 Signup or use the default:
+
 USERNAME - 1
 PASSWORD - 1
 
